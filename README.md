@@ -1,1 +1,1 @@
-# 12.09.2022_JS
+# 12.09.2022 - DOM DOM kursunu degdi
